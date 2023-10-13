@@ -1,7 +1,7 @@
 # quick-greasy-openftp
 
-##runs on caddy with native filetransfer protocol
-##requires python and pip
+runs on caddy with native filetransfer protocol<br>
+requires python, pip, Flask
 
 
 ## Install Flask
